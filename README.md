@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Shajalal Sagar</h1>
+<h1 align="center">Hi, I'm Md. Shajalal Sagar</h1>
 
 <h3 align="center">
   Oracle Database Administrator | Oracle APEX Developer | IT Infrastructure Engineer
