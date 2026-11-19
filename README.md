@@ -1,7 +1,7 @@
 
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFRc4c_9xtP9g/profile-displaybackgroundimage-shrink_350_1400/B56ZXBSGLuGoAY-/0/1742704502344?e=1796860800&v=beta&t=up2JfZcOnt7IruR424uljsxkmiN6wNMP824d93bdxcc"
+  <img src="https://drive.google.com/file/d/1tb3VEh-uU7iSLkgKNnOtQ7omJDcsgFUL/view?usp=drive_link"
        width="100%" alt="Profile Banner"/>
 </p>
 
